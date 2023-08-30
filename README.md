@@ -11,7 +11,7 @@ StenoToppests are based on [StenoToppers](https://github.com/CemraJC/stenotopper
 
 ## Download
 
-TODO
+Download can be found in the [releases](https://github.com/0xca551e/stenotoppests/releases) section.
 
 ## Print instructions
 
